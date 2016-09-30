@@ -1,5 +1,6 @@
 # Haar Training
-A comprehensive library for training Haar Cascades on Windows machines.
+A comprehensive library for training Haar Cascades on Windows machines. The libary has no dependencies, all required files are stored within this repository. That means no OpenCV installation!
+
 ### Status
 - All tools have been tested and are working together properly.
 - Testing included creating a sample haar cascade from hundreds of images of boxes.
